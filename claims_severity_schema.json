@@ -1,0 +1,32 @@
+{
+  "target": "Total_Paid_Amount",
+  "categorical": [
+    "Coverage_Type",
+    "Insurance_Score_Band",
+    "Vehicle_Segment",
+    "Urbanicity",
+    "Collision_Type",
+    "Weather_At_LOSS",
+    "At_Fault_Indicator"
+  ],
+  "booleans": [
+    "Injury_Indicator",
+    "Multi_Vehicle_Flag",
+    "Attorney_Rep_At_FNOL"
+  ],
+  "numerical": [
+    "Bodily_Injury_Limit_Per_Person",
+    "Property_Damage_Limit",
+    "Collision_Deductible",
+    "Policy_Tenure_Months",
+    "Driver_Age",
+    "Vehicle_Age_Years",
+    "Vehicle_ACV",
+    "Repair_Cost_Index",
+    "Medical_Cost_Index",
+    "Weather_Cat_Risk_Index",
+    "Report_Lag_Days",
+    "Prior_Claims_Count_36M",
+    "Moving_Violations_36M"
+  ]
+}
